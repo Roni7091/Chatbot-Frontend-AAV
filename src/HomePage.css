@@ -1,0 +1,16 @@
+.main-container {
+  display: flex; /* Display children side by side */
+}
+
+.partone {
+  display: flex; /* Display images side by side */
+}
+
+.flash{
+  max-width: 50%; 
+}
+
+
+.ai {
+  width: 500px;
+}

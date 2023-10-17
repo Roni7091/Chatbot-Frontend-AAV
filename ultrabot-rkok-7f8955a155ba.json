@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ultrabot-rkok",
+  "private_key_id": "7f8955a155bad01bee49532f6f43a3e7890a269e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDR15vIQS+HDLMc\nw/UvTD83ESQRP8NUP4YoffxRrm33eOeYSmPvhfLakHeOThR7EShfvFoXmJGuJVi7\n5zhP0Wi2qjwORz0XfLBaVyqrhnPjjY6glvZA27XoOUP6/rWZ1/SVh8DHrERsIw/0\nbEM6pJhqthtsY8KlB1u3UEr78/0MDY6ejn+0Ri1ywdw+YQ2BHWT3O0WWtT/+MOUJ\nlWx4lUQMX2vcVu91BSx3l6lDpgorMImCNq2TXFjQElsh43gd2PGnASaEwCWs3jW+\n5+egjuihlsKrXR7N1vVqJRVb1RqHt3JNLH0fes8cGk0rrHVfpPcxHqEs7UTcBwAs\nOjWl0+LHAgMBAAECggEAES+m7xpDobxtCPyVnqeQf9qUCSOfRE2ll7hly2zNTdjl\noufo0mu2jacKW6nSbJflph2fhVI2EDy3zT/tMUBV4qwDminEe6F3Mhb0hDLRWAA2\nf7mNdpdoCRpzkmF9DxoMSpjhNZlKy0591odtZCap4weCLHjpLqnxHYzib0s23N8z\nPtysU0CweA73Iv7eR9p1RolWgj9M+S8bz5qvEptrw2yy5orKC96m9YGYErDubFvN\nsCI4PZL7tqFq/XS+/UnQJbHfKeWa7uGiGi8/OO/xdB4wJ+al857K1Y5okT6LqI51\nxBMtM0rl5bZQo1d0jWU0TEEJ9Ncqmlmk1Se2eR0mJQKBgQD+gJqOpltrbp/5asmg\nFk8i94PiN68Tvuak+Dfsg4yv5lzAN0SqVNkF2pMDXdNWyitmzUiP7mviLbVWEhUW\nC+dNY3u9qE6X0/SJ7k55Gf4G2/frHGIoRNhBhc5XbAiFOHGz33KjCaaG7mZ8/4Fi\npzGo12p79aW3e1gyI3I8xFGS0wKBgQDTE7nvrL0mwkT617FoX/e41HO7PoFtu4Gf\nr2CRU/Ie7EEWRzMaeq/kHqYvdXRnPqtTHqAeFVgvZap4RhI7Jle8FjXix3gSjsrc\nfufq2zc4t04tedA2RBax97DzOl0yjazL1D96h+jgfErwsVOkbyfYHio6EG0vlfId\n6IOALKtvvQKBgADgrKfFRxdtwDt59MwKh6dVNy02h/IHfIAhIwA7y+ZnYvZ+ukvk\nEwOEJ3GhhzMLa27lUlS8u76B7dgoI855qAiKSUj0JaE8Z+F54udkAY5Af/BdnrEI\n274OGhIPG1BqS2oVYS3SwLJCbDQOJYITlYZBh+p5hGLHmBxEJwaynp1lAoGBAJ47\nNnLWkoGAtsc4dHTjJEg5c3yVkd8Z5kU36nNnc6T8xJoXy9Z4zGx9EWWYbieLklFg\nLvX+WDpHw3AgT0BqMPD90W1szLVUt/xtYhvsM8xflcp/e7eCeWT2Yn8jbIQeMsAm\nH2QSiF/orSEcPbCR51Oa4Vrfv4ohpPwItrOaSPYdAoGBAOB9C8TmtLJef52Xa21V\noiDhsGTncFHZl4uSiGq1gEIQec2aPqrfF9jRZI2GzlqYL1qVuyAWcKIND1dJkIio\nfw3wdMnQQLWIiZeQylTNgBpw56yCaBvg8LYO70fgHHiYwwhhgZoqDo6tNdVR6kqi\no+C43nq4pchlZeJedUlY9F/3\n-----END PRIVATE KEY-----\n",
+  "client_email": "ultrabot@ultrabot-rkok.iam.gserviceaccount.com",
+  "client_id": "102328537706692330863",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ultrabot%40ultrabot-rkok.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
